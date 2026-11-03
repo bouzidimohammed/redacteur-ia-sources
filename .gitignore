@@ -1,0 +1,11 @@
+# Clés et variables d'environnement : ne jamais publier
+.env
+*.env
+
+# Articles générés (à relire avant toute publication)
+article.md
+article.html
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,6 @@
+langchain>=1.0,<2
+langchain-openai>=1.0,<2
+langgraph>=1.0,<2
+tavily-python>=0.7,<1
+rich
+markdown
